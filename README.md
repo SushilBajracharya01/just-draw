@@ -8,7 +8,7 @@
 
 [![Hacktoberfest'20](https://img.shields.io/badge/hacktoberfest-2020-pinkpurple)](#)
 
-Welcome to <a href="https://sushilbajracharya01.github.io/just-draw/" target="_blank">Just Draw/>
+Welcome to <a href="https://sushilbajracharya01.github.io/just-draw/" target="_blank">Just Draw<a/>
 
 # Aims
 
