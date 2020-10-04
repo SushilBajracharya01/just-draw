@@ -1,0 +1,14 @@
+#yourName {
+  width: 50%;
+  height: 50%;
+  border-radius: 50%;
+  background: rgb(255, 238, 3);
+}
+
+#sushilBajracharya01 {
+  width: 50%;
+  height: 50%;
+  border: skyblue 87px double;
+  border-bottom-color: #ffbf00;
+  border-bottom-style: solid;
+}
