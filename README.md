@@ -7,7 +7,7 @@ Welcome to <a href="https://sushilbajracharya01.github.io/just-draw/" target="_b
 
 # Aims
 
-1. It is also a very simple open source project for beginners to contribute.
+1. It is a simple open source project for beginners to contribute.
 2. It is also a starting point for hacktoberfest 2020 contributors.
 
 # How To Contribute
