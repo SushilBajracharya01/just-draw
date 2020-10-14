@@ -1,3 +1,10 @@
+#yourName {
+  width: 50%;
+  height: 50%;
+  border-radius: 50%;
+  background: rgb(255, 238, 3);
+}
+/*css for my name div block below*/
 #Prakhar {
   width: 50%;
   height: 50%;
