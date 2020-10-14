@@ -4,6 +4,15 @@
   border-radius: 50%;
   background: rgb(255, 238, 3);
 }
+/*css for my name div block below*/
+#Prakhar {
+  width: 50%;
+  height: 50%;
+  border: dodgerblue 8px dotted;
+  border-radius: 10%;
+  background: rgb(255, 238, 3);
+  background-image: repeating-radial-gradient(red, yellow 12%, green 15%);
+}
 
 #sushilBajracharya01 {
   width: 50%;
