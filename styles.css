@@ -65,7 +65,7 @@ body {
   border-radius: 10px;
   overflow: hidden;
 }
-#nameP {
+.nameP {
   position: absolute;
   bottom: 0;
 }
