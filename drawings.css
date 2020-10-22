@@ -22,6 +22,39 @@
   border-bottom-style: solid;
 }
 
+#kkritii {
+  position: relative;
+  width: 0;
+  height: 0;
+  bottom: -15px;
+  border-left: 80px solid transparent;
+  border-right: 80px solid transparent;
+  border-top: 125px solid #ff94b6;
+}
+#kkritii:before {
+  position: absolute;
+  width: 0;
+  height: 0;
+  top: -200px;
+  left: -80px;
+  content: "";
+  border-left: 80px solid transparent;
+  border-right: 80px solid transparent;
+  border-bottom: 75px solid #55ceff;
+}
+#kkritii:after {
+  position: absolute;
+  width: 0;
+  height: 0;
+  top: -40px;
+  right: -40px;
+  content: "";
+  border-left: 40px solid transparent;
+  border-right: 40px solid transparent;
+  border-bottom: 50px solid orange;
+}
+
+
 /*dark brown #ba2f1f */
 /* light brown  #fc6a41*/
 /* middle brown #f85a34 */
